@@ -1,5 +1,5 @@
 PRODIGY_WD_01
-RESPONSOVE LANDING PAGE
+RESPONSIVE LANDING PAGE
 Restaraunt Landing page using react
 This project is a Restaurant Landing Page designed to showcase a restaurant's menu, services, and contact information in an appealing and user-friendly manner. The highlight of this project is an interactive navigation menu that enhances user experience by changing style dynamically based on user interactions. The navigation menu remains fixed at the top of the page, ensuring that it is always accessible, regardless of the user’s scroll position.
 
